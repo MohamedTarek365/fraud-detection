@@ -1,0 +1,74 @@
+# fraud-detection# 💳 Credit Card Fraud Detection | كشف الاحتيال البنكي
+Detect fraudulent transactions with Machine Learning | اكتشاف العمليات الاحتيالية باستخدام التعلم الآلي
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## English Version
+
+### 🚀 Project Overview
+This project builds a machine learning system to detect suspicious credit card transactions.  
+The main goal is to maximize **Recall**, minimizing **false negatives** (fraudulent transactions not detected).
+
+### 📂 Project Structure
+
+### 🧰 Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- SMOTE (for handling imbalanced data)
+
+### 🧪 Approach
+1️⃣ **Exploratory Data Analysis (EDA)**
+- Analyze distributions
+- Detect imbalanced classes
+- Correlation analysis
+
+2️⃣ **Preprocessing**
+- Normalization / Scaling
+- Encoding
+- Train/Test split
+- Handling imbalanced data with SMOTE
+
+3️⃣ **Model Training**
+- Tried models: Logistic Regression, Random Forest, XGBoost
+- Selection based on: Recall, F1-score, ROC-AUC
+
+4️⃣ **Evaluation**
+- Confusion Matrix
+- ROC Curve
+- Precision & Recall
+- Classification Report
+
+### 📊 Results
+| Metric    | Score |
+|-----------|------|
+| Accuracy  | 0.99 |
+| Precision | 0.98 |
+| Recall    | 0.87 |
+| F1-score  | 0.92 |
+
+### ▶️ How to Run
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd fraud-detection
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the script
+python src/fraud_detection.py
+```
+📌 Future Improvements
+
+Experiment with Deep Learning models
+
+Use AutoML for model selection
+
+Build a dashboard for visualization
+
+Real-time fraud streaming detection
