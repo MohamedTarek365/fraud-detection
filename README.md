@@ -6,7 +6,6 @@ Detect fraudulent transactions with Machine Learning | اكتشاف العملي
 
 ---
 
-## English Version
 
 ### 🚀 Project Overview
 This project builds a machine learning system to detect suspicious credit card transactions.  
