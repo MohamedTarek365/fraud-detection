@@ -11,7 +11,8 @@ Detect fraudulent transactions with Machine Learning | اكتشاف العملي
 This project builds a machine learning system to detect suspicious credit card transactions.  
 The main goal is to maximize **Recall**, minimizing **false negatives** (fraudulent transactions not detected).
 
-### 📂 Project Structure
+### 📂Data-set
+[Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
 
 ### 🧰 Technologies Used
 - Python
@@ -62,7 +63,7 @@ pip install -r requirements.txt
 # Run the script
 python src/fraud_detection.py
 ```
-📌 Future Improvements
+### 📌 Future Improvements
 
 Experiment with Deep Learning models
 
@@ -71,3 +72,15 @@ Use AutoML for model selection
 Build a dashboard for visualization
 
 Real-time fraud streaming detection
+
+### 📞 Contact | للتواصل
+
+Mohamed Tarek
+[GitHub](github.com/MohamedTarek365)
+
+[LinkedIn](www.linkedin.com/in/-mohamed-tarek)
+
+
+### Learning Resources
+[video](https://youtu.be/4Od5_z28iIE?si=TikqAT-NzFkF50_0)
+
