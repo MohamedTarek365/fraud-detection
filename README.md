@@ -74,7 +74,7 @@ Real-time fraud streaming detection
 ### 📞 Contact | للتواصل
 
 Mohamed Tarek
-[GitHub](github.com/MohamedTarek365)
+[GitHub](https://github.com/MohamedTarek365)
 
 [LinkedIn](www.linkedin.com/in/-mohamed-tarek)
 
