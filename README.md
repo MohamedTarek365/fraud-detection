@@ -30,11 +30,10 @@ The main goal is to maximize **Recall**, minimizing **false negatives** (fraudul
 - Normalization / Scaling
 - Encoding
 - Train/Test split
-- Handling imbalanced data with SMOTE
 
 3️⃣ **Model Training**
-- Tried models: Logistic Regression, Random Forest, XGBoost
-- Selection based on: Recall, F1-score, ROC-AUC
+- Tried models: XGBoost
+- Selection based on: Precision, Recall, F1-score, 
 
 4️⃣ **Evaluation**
 - Confusion Matrix
