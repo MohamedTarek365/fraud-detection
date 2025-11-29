@@ -33,7 +33,7 @@ The main goal is to maximize **Recall**, minimizing **false negatives** (fraudul
 
 3️⃣ **Model Training**
 - Tried models: XGBoost
-- Selection based on: Precision, Recall, F1-score, 
+- Selection based on: Recall, F1-score, 
 
 4️⃣ **Evaluation**
 - Confusion Matrix
