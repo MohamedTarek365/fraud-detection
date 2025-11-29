@@ -19,7 +19,6 @@ The main goal is to maximize **Recall**, minimizing **false negatives** (fraudul
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- SMOTE (for handling imbalanced data)
 
 ### 🧪 Approach
 1️⃣ **Exploratory Data Analysis (EDA)**
@@ -39,7 +38,6 @@ The main goal is to maximize **Recall**, minimizing **false negatives** (fraudul
 
 4️⃣ **Evaluation**
 - Confusion Matrix
-- ROC Curve
 - Precision & Recall
 - Classification Report
 
@@ -54,7 +52,7 @@ The main goal is to maximize **Recall**, minimizing **false negatives** (fraudul
 ### ▶️ How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/MohamedTarek365/fraud-detection.git
 cd fraud-detection
 
 # Install dependencies
