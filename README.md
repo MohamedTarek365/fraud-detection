@@ -75,8 +75,7 @@ Real-time fraud streaming detection
 Mohamed Tarek
 [GitHub](https://github.com/MohamedTarek365)
 
-[LinkedIn]([https://www.linkedin.com/in/-mohamed-tarek])
-
+* LinkedIn: [https://www.linkedin.com/in/-mohamed-tarek](https://www.linkedin.com/in/-mohamed-tarek)
 
 ### Learning Resources
 [video](https://youtu.be/4Od5_z28iIE?si=TikqAT-NzFkF50_0)
